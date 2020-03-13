@@ -14,6 +14,6 @@
 #   Test Package:              'Ctrl + Shift + T'
 #' @export
 #'
-hello2 <- function() {
+Prova <- function() {
   print("Hello, world!")
 }
